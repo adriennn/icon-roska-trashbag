@@ -1,7 +1,7 @@
 # icon-roska-trashbag
 a trashbag icon for everybody
 
-Usage
+#Usage
 
 load the stylesheet in the ```<head>```
 
